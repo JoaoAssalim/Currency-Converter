@@ -1,7 +1,6 @@
 # Currency-Converter
-> A live Currency converter.
+> A live Currency converter using web scraping.
 
-[![Build Status][travis-image]][travis-url]
 
 
 ## Meta
